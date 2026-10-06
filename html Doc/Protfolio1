@@ -10,18 +10,19 @@
 
     <body>
         
-    <table border="2" cellpadding="5ÿ" cellspacing="1">
+    <table border="2"  width="50%">
             <tr>
                 <th>
-                    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E0BAQFhIXePY3zekA%2Fcompany-logo_200_200%2FB4EZ7cpJajHkAE-%2F0%2F1781818234808%2Fproapps_solutions_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3DpDPtJ7nz6120pzonjQwC0Cn0R9QzwORRRGP8tklsUbA&tbnid=DJdXjmGyULNrGM&vet=1&imgrefurl=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fproapps-solutions&docid=O_Fsya37wkA5gM&w=200&h=200&hl=en-IN&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=cd258f65c1338904&shem=epsd1%2Cnisbtsa2%2Cnisbtsal%2Crimspwouoe"/>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrh3kIIWOmwHbULVfMcnQ3Sx9KSKKUj8xckgUz6GXfMQ&s=10" width="60px"/>
                 </th>
                 <th colspan="2">
                     <a href="#">Home</a>
-                    <a herf="#">About me</a>
-                    <a href="#">skills</a>
-                    <a herf="#">project</a>
-                    <a href="#">Eduvation </a>
-                    <a herf="#">Contact</a>
+                    <a href="#"> About Me</a>
+                    <a href="#">Skills</a>
+                    <a href="#">Projects</a>
+                    <a href="#">Education</a>
+                    <a href="#">Contact</a>
+                    
                 </th>
                 <th>
                     <button>Hire me </button>
@@ -29,49 +30,69 @@
             </tr>
             <tr>
                 <th colspan="3">
-                    <h1 align="left">Hello i'm</h1>
-                    <h1 align="left" color="red">Harshita</h1>
-                    <h1 align="left"colspan ="1">A softwaredeveloper</h1>
-                    <p>I’m a passionate and curious learner who has completed my 12th and is currently pursuing a course in Software Development. I’m interested in technology and enjoy learning how websites, applications, and software are buil.</p>
+                    <h1 align="left" >Hello i'm</h1>
+                   <font color="red"> <h1 align="left">Harshita</h1></font>
+                   <font color="blue"><h1 align="left">Software Developer</h1></font>
+                    
+                    <p>I’m a passionate and<i>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis ullam veniam sequi ipsum quos aperiam aliquam nulla sed quam consequatur!</> curious learner who has completed my 12th and is currently pursuing a course in Software Development. I’m interested in technology and enjoy learning how websites, applications, and software are buil.</p>
                 </th>
                 <th>
-                    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E0BAQFhIXePY3zekA%2Fcompany-logo_200_200%2FB4EZ7cpJajHkAE-%2F0%2F1781818234808%2Fproapps_solutions_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3DpDPtJ7nz6120pzonjQwC0Cn0R9QzwORRRGP8tklsUbA&tbnid=DJdXjmGyULNrGM&vet=1&imgrefurl=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fproapps-solutions&docid=O_Fsya37wkA5gM&w=200&h=200&hl=en-IN&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=cd258f65c1338904&shem=epsd1%2Cnisbtsa2%2Cnisbtsal%2Crimspwouoe">
+                    <img src="https://i.pinimg.com/1200x/b8/46/34/b84634a08feab958e051b4cb810abea7.jpg "width="250px"/>
                 </th>
             </tr>
             <tr>
                 <th colspan="4">
-                    About me 
+                    
+		            <marquee direction="left" behavior="scroll" scrollamount="10">Heyy..welcome to my protfolio! Check my laests projects and skills. I’m a passionate and curious learner who has completed my 12th and is currently pursuing a course in Software Development. I’m interested in technology and enjoy learning how websites, applications, and software are buil.</marquee>
+                </th>
+		            </marquee>
+	            </th>
+            </tr>
+            <tr>
+                <th colspan="4">
+                    <font color="blue"><h1 align="center">About Me</h1></font>
                 </th>
             </tr>
             <tr>
                 <th>
-                    <img src=""/>
+                    <img src="https://i.pinimg.com/1200x/b8/46/34/b84634a08feab958e051b4cb810abea7.jpg "width="250px"/>
                 </th>
                 <th colspan="4">
-                      <p>I’m a passionate and curious learner who has completed my 12th and is currently pursuing a course in Software Development. I’m interested in technology and enjoy learning how websites, applications, and software are buil.</p>
+                      <p> <b>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat ipsam inventore repellat enim <mark veritatis maiores. Tempore ipsum possimus fuga beatae dicta quo ab. Vel earum aut ab sunt hic natus iste ducimus sint, repellat pariatur debitis doloribus at quas exercitationem iure, dolorem distinctio beatae odit non voluptatem recusandae. Esse.</b>I’m a passionate and curious learner who has completed my 12th and is currently pursuing a course in Software Development. I’m interested in technology and enjoy learning how websites, applications, and software are buil.</p>
                 </th>
             </tr>
             <tr>
                 <th colspan="4">
-                   My skills
+                   <font color="blue"><h1 align="center"></h1>My Skills</h1></font>
                 </th>
             </tr>
             <tr>
-                <th>C-language</th>
-                <th>html5</th>
-                <th>CSS3</th>
-                <th> Bootstrap</th>
+                <th>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPGS0LQf_aKHj4c4OOK3RBbgk88mOyEhsPjEPKY6CSQ&s"/>
+                </br>C-language</th>
+                <th>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-rszDWP3unmFyYmPUkt-TtrxvsFdYUac6za-Gx-vJO_GcdV1DDP7nf84&s=10" width="150px"/>
+                </br>html5</th>
+                <th><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmw6_gjpWPDi0DeY0ka2e9kAGiPQ8LFkA8ZHpx4INEJCEuZE9K_3CihGc&s=10" width="150px"/>
+                </br>CSS3</th>
+                <th>
+                    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="150px"/>
+                    </br> Bootstrap</th>
             </tr>
             <tr>
-                <th colspan="4">Projects</th>
+                <th colspan="4">
+                    <font color="blue"><h1 align="center">Projects</h1></font>
+                </th>
             </tr>
             <tr >
-                <th colspan=""><img src=""/></th>
-                <th colspan=""><img src=""/></th>
-                <th colspan="2."><img src=""/></th>
+                <th colspan=""><img src="https://dahqbtk1vlskk.cloudfront.net/wp-content/uploads/2025/07/17145505/Top-10-Challenges-in-Software-Development-and-How-to-Overcome-Them-min-scaled-1.webp" width="300px"/></th>
+                <th colspan=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9BrBYqEbhfLJGgM4aWue7mRZvwJVT6mYrsZRTIdljV_J8-wyfz_SnfAl&s=10" width="300px"/></th>
+                <th colspan="2."><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8VuuLxocwfdNs3jI1HPbJa6UkXST9TSon92LwoAZhymGjQqvoYNttUh7&s=10" width="300px"/></th>
             </tr>
             <tr>
-                <th colspan="4">Education</th>
+                <th colspan="4">
+                    <font color="blue"><h1 align="center">Education</h1></font>
+                </th>
             </tr>
             <tr>
                 <th>10 SSC</br>
@@ -88,7 +109,9 @@
                 </th>
             </tr>
             <tr>
-                <th colspan="4">Certified Cours</th>
+                <th colspan="4">
+                    <font color="blue"><h1 align="center">Certified Courses</h1></font>
+                </th>
             </tr>
             <tr>
                 <th colspan="2">
@@ -100,27 +123,29 @@
                 </th>
             </tr>
             <tr>
-                <th colspan="4">contact us</th>
+                <th colspan="4">
+                    <font color="blue"><h1 align="center">Contact Us</h1></font>
+                </th>
             </tr>
             <tr>
                 <th>
                     phone no:-9864632358
                 </th>
                 <th>
-                    email id:-hsfwvndojs378
+                    email id:-hriitedu@gmail.com
                 </th>
                 <th colspan="2">
-                    linkdin id:-ywudhv57w5
+                    linkdin id:-harhsitadhadve
                 </th>
             </tr>
             <tr>
-                <th>
-                    <img src="">
+                <th cellpadding="10" cellspacing="50">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrh3kIIWOmwHbULVfMcnQ3Sx9KSKKUj8xckgUz6GXfMQ&s=10" width="60px"">
                 </th>
                 <th>
                     About us</br> Home</br>Abut me</br>skills</br> project</br>education
                 </th >
-                <th colspan="2">About us</br>phone no:-345756764</br> email id:-fgcsgh644</br> linkdin id:-gghbjkfd674
+                <th colspan="3" cellpadding="10" cellspacing="50">About us</br>phone no:-345756764</br> email id:-fgcsgh644</br> linkdin id:-gghbjkfd674
                     
                 </th>
             </tr>
